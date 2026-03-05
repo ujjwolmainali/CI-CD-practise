@@ -8,7 +8,7 @@ const App: React.FC = () => {
       {/* Navigation */}
       <nav className="max-w-5xl mx-auto px-6 py-8 flex justify-between items-center">
         <div className="text-xl font-bold tracking-tighter text-indigo-600">
-          UM<span className="text-slate-800">.</span>
+          UMainali<span className="text-slate-800">.</span>
         </div>
         <div className="flex gap-4">
           <a href="#contact" className="text-sm font-medium hover:text-indigo-600 transition-colors">Contact</a>

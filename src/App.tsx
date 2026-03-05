@@ -1,4 +1,3 @@
-import React from 'react';
 import { Github, Linkedin, Mail, Code2, GraduationCap, Terminal } from 'lucide-react';
 
 const App: React.FC = () => {
